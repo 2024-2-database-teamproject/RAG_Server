@@ -9,8 +9,10 @@
 - Request Header
 headers = {
     "Content-Type": "application/json"
+}
+
 - Request Body example
 {
     "query": "데이터마이닝에 대해서 알려줘.",
-    "user_id": jisu
+    "user_id": "jisu"
 }
